@@ -1,0 +1,37 @@
+* { 
+    background-color: #564203;
+    margin: 2px;
+    text-align: center;
+}
+canvas {
+    text-align: center;
+    border-radius: 7px;
+}
+button {
+    background-color: #998013;
+    border: 1px solid;
+    border-color: #f2e5ab;
+    font-weight: 650;
+    color: #f2e5ab;
+    border-radius: 5px;
+}
+h1 {
+    color: #f2e5ab;
+}
+.fancy_font {
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+.dark_color {
+    background-color: #998013;
+    border-radius: 7px;
+    color: #f2e5ab;
+    
+}
+#output {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #998013;
+    border-radius: 7px;
+    
+}

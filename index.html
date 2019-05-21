@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="author" content="Wiktor Sacharczuk">
+  <script src="./app.js"></script>
+  <link href="./styles.css" type="text/css" rel="stylesheet" />
+</head>
+<body onload="app.init()">
+  <h1>Chess beating checker</h1>
+  <br />
+  <canvas id="chessboard" width="400" height="400"></canvas>
+  <div>
+    <br />
+    <button class="fancy_font" onclick="app.init()">ROLL!</button>
+  </div>
+  <br />
+  <div id="output">
+    <p id="first_figure" class="dark_color"></p>
+    <p id="second_figure" class="dark_color"></p>
+    <p id="first_beating" class="dark_color"></p>
+    <p id="second_beating" class="dark_color"></p>
+  </div>
+</body>

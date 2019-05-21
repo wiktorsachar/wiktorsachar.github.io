@@ -1,0 +1,1 @@
+All chess figure pictures are from wikipedia. CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/
